@@ -27,7 +27,7 @@ Selenium Python bindings provide a convenient API to access Selenium WebDrivers 
 
 ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium. ChromeDriver is available for Chrome on Android and Chrome on Desktop (Mac, Linux, Windows and ChromeOS).  
 
-> **Note**:  read more about **chromeDriver** [here](https://sites.google.com/a/chromium.org/chromedriver/)
+> **Note**:  **chromeDriver** [here](https://sites.google.com/a/chromium.org/chromedriver/)
 
 PyCharm
 -------------
