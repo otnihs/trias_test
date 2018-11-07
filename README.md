@@ -11,7 +11,7 @@ This repository is all about creating automated testing scripts and how to      
 
 WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  If you wish to create automated tests and monitor the quality of your product,  Selenium WebDriver is one of the top tools to achieve exactly that. 
 
-> **Note**:  read more about **Selenium WebDriver** [here](http://www.seleniumhq.org/docs/03_webdriver.jsp)
+> **Note**:  read more about **             Selenium WebDriver** [here](http://www.seleniumhq.org/docs/03_webdriver.jsp)
 
 2. Python & WebDriver
 -------------
