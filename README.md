@@ -2,7 +2,8 @@ Selenium / Jenkins / Allure
 ======================
 
 
-This repository is all about creating automated testing scripts and how to run them on a nightly basis in a **Continuous integration environment**.  The following tools and conventions 
+This repository is all about creating automated testing scripts and how to run them on a nightly basis in a **Continuous integration environment**.  The following tools and conventions ALlure
+
 
 
 are used throughout this repository and finally being executed via shell script in Jenkins.
